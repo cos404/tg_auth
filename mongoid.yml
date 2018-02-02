@@ -1,6 +1,0 @@
-development:
-  clients:
-    default:
-      database: votify
-      hosts:
-        - localhost:27017
